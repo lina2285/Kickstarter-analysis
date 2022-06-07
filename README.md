@@ -3,7 +3,7 @@ Analysis for play campaigns in the US and GB, and for musicals in GB
 
 ##comparisons by parent categories and subcategories
 
-![US-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\US-Parent-Category-Outcomes.png)
+![US-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis)
 
 *Of all categories, theater was the most successful with 512 successful kickstarter campaigns
 

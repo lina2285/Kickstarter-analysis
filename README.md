@@ -3,25 +3,25 @@ Analysis for play campaigns in the US and GB, and for musicals in GB
 
 ##comparisons by parent categories and subcategories
 
-![US-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis)
+![US-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\US-Parent-Category-Outcomes.png)
 
 *Of all categories, theater was the most successful with 512 successful kickstarter campaigns
 
-![GB-Parent-Category-Outcomes](this pc/documents/bootcamp homework/module 1/crowdfunding analysis/GB-Parent-Category-Outcomes.png)
+![GB-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\GB-Parent-Category-Outcomes.png)
 
 *In GB, theater is also the most successful campaign with 258 successful kickstarter campaigns
 
-![US-Subcategory-comparison](this pc/documents/bootcamp homework/module 1/crowdfunding analysis/US-Subcategory-comparison.png)
+![US-Subcategory-comparison](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\US-Subcategory-comparison.png)
 
 *of all subcategories in the US, Plays have the most success with 412 successful kisckstarter campaigns from a total of 671
 
-![GB-Subcategory-comparison](this pc/documents/bootcamp homework/module 1/crowdfunding analysis/GB-subcaterory-comparison.png)
+![GB-Subcategory-comparison](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\GB-subcaterory-comparison.png)
 
 *Although plays in GB are less than the US, Plays are also the most successful with 238 successful campaigns from a total of 314
 
 ##Analysis of outcomes based on launch date
 
-![launch-date-theatre-outcomes](this pc/documents/bootcamp homework/module 1/crowdfunding analysis/launch-date-theatre-outcomes.png)
+![launch-date-theatre-outcomes](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\launch-date-theatre-outcomes.png)
 
 *Most successful kickstarters where launched in May and June
 
@@ -37,7 +37,7 @@ Analysis for play campaigns in the US and GB, and for musicals in GB
 
 *Play was active for a short time, under a month
 
-![Average-Donation](this pc/documents/bootcamp homework/module 1/crowdfunding ananlysis/average-donation.png)
+![Average-Donation](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\average-donation.png)
 
 *Average donations for all categories are approximately $80
 
@@ -59,6 +59,6 @@ Analysis for play campaigns in the US and GB, and for musicals in GB
 
 ##Musicals in GB
 
-![GB-musicals-chart](this pc/documents/bootcamp homework/module 1/crowdfunding analysis/GB-musicals-chart.png)
+![GB-musicals-chart](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\GB-musicals-chart.png)
 
 *half of the campaign goals are under 2,000, with is slightly above the third quartile of the pledges, which indicates that goals set are being set too high

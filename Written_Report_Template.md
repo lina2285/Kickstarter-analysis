@@ -18,7 +18,7 @@
 
 ![Outcomes_vs_Goals](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\resources\Outcomes_vs_Goals.png)
 
-*Since Louise's current budget is over $1000, it was also important to illustrate if the dollar amount of the goal has an impact on the campaign outcome. 
+*Since Louise's current budget is over $10000, it was also important to illustrate if the dollar amount of the goal has an impact on the campaign outcome. 
 
 ### Challenges and Difficulties Encountered
 
@@ -34,6 +34,12 @@
 
 - What can you conclude about the Outcomes based on Goals?
 
+*Although failed kickstarter play campaigns have much higher fundraising goals than successful ones and money may appear to impact the success rate, causation cannot be comfirmed. Since the mean and median of the pledged amounts are much lower than the successful pledges, money might not have a direct impact on the success rate and other factors might need to be considered.  
+
 - What are some limitations of this dataset?
 
+*The dataset is limited in the sense that it does not include all factors that might affect a campaign. The results gathered from the dataset do not confirm a direct causation for success rate. Perhaps more detailed information on the demographics, cast and marketing techniques might provide more direction.
+
 - What are some other possible tables and/or graphs that we could create?
+
+*A regression analysis might give a more clear direction on how much each factor affects the success rate. 

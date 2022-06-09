@@ -10,13 +10,13 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theatre_Outcomes_vs_Launch](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\resources\Theatre_Outcomes_vs_lauch.png)
+![Theatre_Outcomes_vs_Launch](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\resources\Theatre_Outcomes_vs_lauch.png)
 
   *To better understand when would be an ideal time to launch the campaign, a line chart illustrating number of outcomes and lauch dates was created. The chart has a clear illustration of the number of outcomes on the Y axis and months on the X axis to show which months have more success.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](C:\Users\lina2\Onedrive\documents\bootcamp homework\module 1\crowdfunding analysis\resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\resources\Outcomes_vs_Goals.png)
 
   *Since Louise's current budget is over $10000, it was also important to illustrate if the dollar amount of the goal has an impact on the campaign outcome. 
 

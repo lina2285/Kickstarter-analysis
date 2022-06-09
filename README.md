@@ -1,64 +1,45 @@
-# An Analysis of Kickstarter Campaigns
-Analysis for play campaigns in the US and GB, and for musicals in GB
+# Kickstarting with Excel
 
-##comparisons by parent categories and subcategories 
+## Overview of Project
 
-![US-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\Codingdemo\bootcamp homework\module 1\crowdfunding analysis\US-Parent-Category-Outcomes.png)
+### Purpose
 
-*Of all categories, theater was the most successful with 512 successful kickstarter campaigns
+  *The Client Louise is an up-and-coming playwright that is starting a crowdfunding campaign to help fund her play 'Fever' and has a budget of over $10000. Louise is seeking help in planning her crowdfunding to ensure success based on historical data of other campaigns. Louise is also considering a campaign for a musical in Great Britain. The purpose is to analyze the performace of different campaigns to determine from the dataset how impactful each variable is, when to do it, how much to spend, popularity of the category and if it has high success rates.
 
-![GB-Parent-Category-Outcomes](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\GB-Parent-Category-Outcomes.png)
+## Analysis and Challenges
 
-*In GB, theater is also the most successful campaign with 258 successful kickstarter campaigns
+### Analysis of Outcomes Based on Launch Date
 
-![US-Subcategory-comparison](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\US-Subcategory-comparison.png)
+![Theatre_Outcomes_vs_Launch](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\resources\Theatre_Outcomes_vs_lauch.png)
 
-*of all subcategories in the US, Plays have the most success with 412 successful kisckstarter campaigns from a total of 671
+  *To better understand when would be an ideal time to launch the campaign, a line chart illustrating number of outcomes and lauch dates was created. The chart has a clear illustration of the number of outcomes on the Y axis and months on the X axis to show which months have more success.
 
-![GB-Subcategory-comparison](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\GB-subcaterory-comparison.png)
+### Analysis of Outcomes Based on Goals
 
-*Although plays in GB are less than the US, Plays are also the most successful with 238 successful campaigns from a total of 314
+![Outcomes_vs_Goals](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\resources\Outcomes_vs_Goals.png)
 
-##Analysis of outcomes based on launch date
+  *Since Louise's current budget is over $10000, it was also important to illustrate if the dollar amount of the goal has an impact on the campaign outcome. 
 
-![launch-date-theatre-outcomes](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\launch-date-theatre-outcomes.png)
+### Challenges and Difficulties Encountered
 
-*Most successful kickstarters where launched in May and June
+  *The data provided for the analysis had a lot of information of over 4000 different Campaigns in multiple countries, categories, dates, and years. It was very challenging to understand which factors were important.  
 
-*May and June are good months to start a campaign
+## Results
 
-*Overall, theatre is a popular and successful type of campaign overall
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-##Analysis of play "Foresight"
+  *Overall, the theater category is very popular as it makes 34% of the total outcomes. On avearge all categories have a success rate of 54% and theater's success rate   is higher than the overall average at 61%. 
 
-*Foresight reached 100% of goal
+  *The month with the most succesful Kickstarter campaigns is May, followed by June. Louise should consider starting a campaign during those months. 
 
-*It was created in April 22nd and ended in May 16th
+- What can you conclude about the Outcomes based on Goals?
 
-*Play was active for a short time, under a month
+  *Although failed kickstarter play campaigns have much higher fundraising goals than successful ones and money may appear to impact the success rate, causation cannot   be comfirmed. Since the mean and median of the pledged amounts are much lower than the successful pledges, money might not have a direct impact on the success rate     and other factors might need to be considered.  
 
-![Average-Donation](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\average-donation.png)
+- What are some limitations of this dataset?
 
-*Average donations for all categories are approximately $80
+  *The dataset is limited in the sense that it does not include all factors that might affect a campaign. The results gathered from the dataset do not confirm a direct   causation for success rate. Perhaps more detailed information on the demographics, cast and marketing techniques might provide more direction.
 
-*Average donations for "plays" are $69.98
+- What are some other possible tables and/or graphs that we could create?
 
-*Average donations for "Foresight" were $117.88, which was well above average for overall donations
-
-##Descriptive Statistics for successful and failed kickstarter plays
-
-*Failed Kickstarter play campaigns have much higher fundraising goals than successful campaigns
-
-*An estimated $10,000 + budget for the campaign might be risky since the average goals and pledged amounts of successful campaigns are around $5,000
-
-*Conversely, the mean and median of failed pledged amounts are much lower than those of successful pledges. This might indicate that there are factors other than money affecting the success of campaigns
-
-*The standard donations are higher than the average and the distribution of successful plays fall around the third quartile which is around $5,000
-
-*since the standard deviations are about three times the IQR, this might be an indication that some failed kickstarters had extremely high goals
-
-##Musicals in GB
-
-![GB-musicals-chart](C:\Users\lina2\Onedrive\documents\codingdemo\bootcamp homework\module 1\crowdfunding analysis\GB-musicals-chart.png)
-
-*half of the campaign goals are under 2,000, with is slightly above the third quartile of the pledges, which indicates that goals set are being set too high
+  *A regression analysis might give a more clear direction on how much each factor affects the success rate. 
